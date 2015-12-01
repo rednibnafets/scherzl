@@ -19,6 +19,7 @@ public class JavaApplication007 {
         
         // new
         System.out.println("Hello hello") ;
+        System.out.println("oops") ;        
     }
     
 }
